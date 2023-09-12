@@ -24,8 +24,8 @@ Il codice prodotto dal mio team e da me ci ha permesso di raggiungere il secondo
 ## Strumenti Utilizzati
 
 - Python
-- Librerie NLP (ad esempio, NLTK o spaCy)
-- Algoritmi di Machine Learning (se applicabili)
+- Librerie NLP 
+- Algoritmi di Machine Learning
 - Jupyter Notebook per l'analisi e la visualizzazione dei dati
 
 ## Come Eseguire il Codice
