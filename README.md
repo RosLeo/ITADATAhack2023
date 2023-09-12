@@ -7,19 +7,19 @@ Il codice prodotto da me e il mio team ci ha permesso di raggiungere il secondo 
 - Nel primo giorno della sfida, ho affrontato la classificazione delle leggi in base a 20 capitoli principali.
 - Ho utilizzato tecniche di analisi testuale e elaborazione del linguaggio naturale (NLP) per assegnare ogni legge al capitolo corrispondente.
 - Il contenuto del lavoro è presente nel file PA.ipynb
-- Mentre il file delle previsioni prodotte è presente nel fine PA.csv
+- Mentre le previsioni prodotte sono presenti nel file PA.csv
 
 ## Giorno 2: Classificazione delle Leggi in Capitoli e Sottocapitoli
 
 - Nel secondo giorno, ho portato il mio progetto al livello successivo. Oltre alla classificazione dei capitoli principali, ho implementato la suddivisione delle leggi in sottocapitoli. Ogni legge è stata assegnata a un capitolo principale e a uno specifico sottocapitolo.
 - Il contenuto del lavoro è presente nel file MLP.ipynb
-- Mentre il file delle previsioni prodotte è presente nel fine MLP.csv
+- Mentre le previsioni prodotte sono presenti nel file MLP.csv
 
 ## Giorno 3: Classificazione delle Leggi in Più Sottocapitoli
 
 - Nel terzo giorno, ho ulteriormente migliorato il sistema di classificazione. Ora ogni legge può appartenere a più di un sottocapitolo, consentendo una categorizzazione più dettagliata e flessibile delle leggi.
 - Il contenuto del lavoro è presente nel file CS.ipynb
-- Mentre il file delle previsioni prodotte è presente nel fine CS.csv
+- Mentre le previsioni prodotte sono presenti nel file CS.csv
   
 ## Strumenti Utilizzati
 
