@@ -1,4 +1,4 @@
-# Progetto ITADATAhack 2023 il cuo scopo è la classificazione delle leggi dell'Unione Europea in Capitoli e Sottocapitoli
+# Progetto ITADATAhack 2023: Classificazione delle leggi dell'Unione Europea in Capitoli e Sottocapitoli
 
 Il codice prodotto da me e il mio team ci ha permesso di raggiungere il secondo posto nella classifica finale dell'ITADATAhack 2023 organizzata da Open Data Playground.
 
