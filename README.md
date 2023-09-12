@@ -11,12 +11,12 @@ Il codice prodotto dal mio team e da me ci ha permesso di raggiungere il secondo
 ## Giorno 2: Classificazione delle Leggi in Capitoli e Sottocapitoli
 
 - Nel secondo giorno, abbiamo portato il nostro progetto al livello successivo. Oltre alla classificazione dei capitoli principali, abbiamo implementato la suddivisione delle leggi in sottocapitoli. Ogni legge è stata assegnata a un capitolo principale e a uno specifico sottocapitolo.
-- Il contenuto del lavoro è presente nella cartella Day_1
+- Il contenuto del lavoro è presente nella cartella Day_2
 
 ## Giorno 3: Classificazione delle Leggi in Più Sottocapitoli
 
 - Nel terzo giorno, abbiamo ulteriormente migliorato il sistema di classificazione. Ora ogni legge può appartenere a più di un sottocapitolo, consentendo una categorizzazione più dettagliata e flessibile delle leggi.
-- Il contenuto del lavoro è presente nella cartella Day_1
+- Il contenuto del lavoro è presente nella cartella Day_3
   
 ## Strumenti Utilizzati
 
