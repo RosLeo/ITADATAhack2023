@@ -1,42 +1,42 @@
-# Progetto ITADATAhack 2023: Classificazione delle leggi dell'Unione Europea in Capitoli e Sottocapitoli
+# ITADATAhack 2023 Project: Classification of European Union Laws into Chapters and Subchapters
 
-Il codice prodotto dal mio team e da me ci ha permesso di raggiungere il secondo posto nella classifica finale dell'ITADATAhack 2023, organizzato da Open Data Playground.
+This project, developed by my team and me, secured us the second place in the final rankings of ITADATAhack 2023, hosted by Open Data Playground.
 
-## Giorno 1: Classificazione delle Leggi in 20 Capitoli
+## Day 1: Classification of Laws into 20 Chapters
 
-- Nel primo giorno della sfida, abbiamo affrontato la classificazione delle leggi in base a 20 capitoli principali.
-- Abbiamo utilizzato tecniche di analisi testuale, elaborazione del linguaggio naturale (NLP) e un algoritmo di machine learning per assegnare ogni legge al capitolo corrispondente.
-- Il contenuto del lavoro è presente nella cartella Day_1
+- On the first day of the challenge, we focused on classifying laws into 20 main chapters.
+- Our approach involved utilizing techniques in textual analysis, natural language processing (NLP), and a machine learning algorithm to assign each law to its corresponding chapter.
+- You can find the details of this work in the Day_1 folder.
 
-## Giorno 2: Classificazione delle Leggi in Capitoli e Sottocapitoli
+## Day 2: Classification of Laws into Chapters and Subchapters
 
-- Nel secondo giorno, abbiamo portato il nostro progetto al livello successivo. Oltre alla classificazione dei capitoli principali, abbiamo implementato la suddivisione delle leggi in sottocapitoli. Ogni legge è stata assegnata a un capitolo principale e a uno specifico sottocapitolo.
-- Il contenuto del lavoro è presente nella cartella Day_2
+- On the second day, we elevated our project to the next level. In addition to classifying into main chapters, we implemented the subdivision of laws into subchapters. Each law was assigned to a main chapter and a specific subchapter.
+- You can find the details of this work in the Day_2 folder.
 
-## Giorno 3: Classificazione delle Leggi in Più Sottocapitoli
+## Day 3: Classification of Laws into Multiple Subchapters
 
-- Nel terzo giorno, abbiamo ulteriormente migliorato il sistema di classificazione. Ora ogni legge può appartenere a più di un sottocapitolo, consentendo una categorizzazione più dettagliata e flessibile delle leggi.
-- Il contenuto del lavoro è presente nella cartella Day_3
-  
-## Strumenti Utilizzati
+- On the third day, we further refined the classification system. Now, each law can belong to multiple subchapters, enabling more detailed and flexible categorization of laws.
+- You can find the details of this work in the Day_3 folder.
+
+## Tools Used
 
 - Python
-- Librerie NLP 
-- Algoritmi di Machine Learning
-- Jupyter Notebook per l'analisi e la visualizzazione dei dati
+- NLP Libraries
+- Machine Learning Algorithms
+- Jupyter Notebook for data analysis and visualization
 
-## Come Eseguire il Codice
+## How to Run the Code
 
-- Clona questo repository sul tuo computer.
-- Assicurati di avere tutte le dipendenze e le librerie installate.
-- Esegui i notebook Jupyter per eseguire l'analisi e la classificazione delle leggi.
+- Clone this repository to your local machine.
+- Ensure you have all the required dependencies and libraries installed.
+- Execute the Jupyter notebooks to perform law analysis and classification.
 
-## Contributi
+## Contributions
 
-Siamo aperti a contributi e suggerimenti per migliorare questo progetto. Se hai idee o miglioramenti da condividere, sentiti libero di aprire una "issue" o inviare una "pull request".
+We welcome contributions and suggestions to enhance this project. If you have ideas or improvements to share, please feel free to open an issue or submit a pull request.
 
-## Ringraziamenti
+## Acknowledgments
 
-Un grande ringraziamento ai miei colleghi, Giuseppe Genito e Raffaele Ferriero, per il supporto e la collaborazione in questo progetto.
+A heartfelt thank you to my colleagues, Giuseppe Genito and Raffaele Ferriero, for their invaluable support and collaboration on this project.
 
-Buon lavoro e buona codifica!
+Happy working and happy coding!
